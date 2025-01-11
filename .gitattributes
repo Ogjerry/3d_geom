@@ -4,3 +4,4 @@
 *.h linguist-language=C
 *.cu linguist-language=Cuda
 Makefile linguist-language=Makefile
+*.ipynb linguist-documentation
